@@ -1,6 +1,6 @@
 #include <iostream>
 int main() 
 { 	
-	int count = 10;  	
+	int count = 1000;  	
 	std::cout << "Hello World!\n";  
 }
